@@ -4,7 +4,7 @@ import (
 	"strings"
 	"sync"
 
-	"../bhio"
+	"github.com/EvertJoubert/bhind/bhio"
 
 	// "github.com/HouzuoGuo/tiedot/db"
 	_ "github.com/HouzuoGuo/tiedot/dberr"
